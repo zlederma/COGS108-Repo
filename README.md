@@ -1,2 +1,2 @@
 # COGS108-Repo
-This is to test Githu
+This is to test Github
